@@ -1,4 +1,4 @@
-# homophones-rs
+# homophones
 
 Copy of `homophones` from PyPI, rewritten in rust as a binary (not a library).
 
