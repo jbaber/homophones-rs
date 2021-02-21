@@ -1,7 +1,7 @@
 use docopt::Docopt;
 use std::io::Read;
 
-const VERSION: &str = "0.1.0";
+const VERSION: &str = "1.0.1";
 
 const USAGE: &str = "Usage:
   homophones [options] <word>

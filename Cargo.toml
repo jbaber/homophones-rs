@@ -1,6 +1,6 @@
 [package]
 name = "homophones"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["John Baber-Lucero <cargo@frundle.com>"]
 license = "GPL-3.0"
 description = "Print homophones for a given word"
