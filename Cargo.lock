@@ -22,7 +22,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "homophones-rs"
+name = "homophones"
 version = "1.0.0"
 dependencies = [
  "docopt",

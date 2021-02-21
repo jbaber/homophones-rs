@@ -1,5 +1,5 @@
 [package]
-name = "homophones-rs"
+name = "homophones"
 version = "1.0.0"
 authors = ["John Baber-Lucero <cargo@frundle.com>"]
 edition = "2018"
