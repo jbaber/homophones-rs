@@ -1,12 +1,13 @@
 [package]
 name = "homophones"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["John Baber-Lucero <cargo@frundle.com>"]
 license = "GPL-3.0"
 description = "Print homophones for a given word"
 homepage = "https://github.com/jbaber/homophones-rs"
 repository = "https://github.com/jbaber/homophones-rs"
 readme = "README.md"
+documentation = "https://docs.rs/homophones/"
 edition = "2018"
 
 [dependencies]
